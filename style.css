@@ -92,7 +92,7 @@ h1{
         border-radius:5px;
     }
 }
-@media screen and(min-width:600px)
+@media screen and(min-width:400px)
 {
     .result{
         width:20px;
