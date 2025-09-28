@@ -92,13 +92,14 @@ h1{
         border-radius:5px;
     }
 }
-@media screen and (max-width: 769px) {
+@media screen and (max-width:769px) {
     
         #result{
             width:100%;
             margin:10px;
             margin-left:25px;
-        }          .result{
+        }          
+       .result{
             margin:10px 10px;
             margin-left:15px;
             padding:10px;
