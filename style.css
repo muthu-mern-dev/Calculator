@@ -97,11 +97,10 @@ h1{
         #result{
             width:100%;
             margin:10px;
-            margin-left:10px;
-        }          
-       .result{
+            margin-left:25px;
+        }          .result{
             margin:10px 10px;
-            margin-left:15px;
+            margin-left:5px;
             padding:10px;
             width:60%;
         }         
